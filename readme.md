@@ -1,4 +1,5 @@
-![image](https://github.com/PatrickFrankAIU/GradeManagerProject/assets/134087916/b5d814bf-e38f-456f-8f9c-cb5a98fb52fa)
+![image](https://github.com/PatrickFrankAIU/GradeManagerProject/assets/134087916/b5d814bf-e38f-456f-8f9c-cb5a98fb52fa)  
+<img width="256" height="256" alt="nwtcsmall" src="https://github.com/user-attachments/assets/22ab60d3-d892-417c-b94d-af6041111585" />
 
 # Northwind JSON API
 
